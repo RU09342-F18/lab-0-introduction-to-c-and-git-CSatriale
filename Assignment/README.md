@@ -1,1 +1,1 @@
-# YOU NEED TO POPULATE THIS README!!!!!!!!
+The math.c file uses the standard C library and the header file math.h to create a simple calculator. The calculator takes three inputs in the form of two int variables, num 1 and num 2. As well as a char, Operator which will be used for selecting the operation that will be taking place. Since int is used, there are no decimals that can be used. Therefore, the default case will result in 0.
