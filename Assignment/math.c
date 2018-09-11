@@ -1,5 +1,5 @@
 #include math.h
-    int math(int num1, int num2, char Operator):
+    int math(int num1, int num2, char Operator){  //takes number one and number two and applies operator inbetween
     
     switch(Operator)
     {
@@ -29,4 +29,5 @@
         default: 
             return 0;                
                 
+    }
     }
